@@ -25,3 +25,9 @@
         </div>
     </div>
 </div>
+
+<h1>Historia firmy</h1>
+    <p>Nasza firma rozpoczęła swoją działalność ponad 30 lat temu, w skromnych warunkach. W 1994 roku, zaczynając od niewielkiego garażu i sprzedaży z samochodu, postanowiliśmy rozwinąć naszą działalność. Po kilku latach ciężkiej pracy i determinacji udało nam się zakupić magazyn, co pozwoliło na znaczne zwiększenie naszych możliwości operacyjnych.</p>
+    <p>Początkowo korzystaliśmy z ciężarówek marki Star, Zil oraz Robur, które były niezawodne w naszych codziennych operacjach. W miarę jak firma rosła, inwestowaliśmy w nowoczesny sprzęt – najpierw zakupiliśmy pojazdy Iveco, a w końcu przeszliśmy na najbardziej renomowane marki – DAF i Scania. Nasza flota stała się symbolem jakości i profesjonalizmu, a nasze usługi zyskały uznanie w branży.</p>
+    <p>Dziś, jako liderzy w naszej dziedzinie, kontynuujemy rozwój, dbając o najwyższe standardy obsługi i innowacje technologiczne. Nasza historia to opowieść o pasji, wzroście i nieustannym dążeniu do doskonałości.</p>
+</body>
