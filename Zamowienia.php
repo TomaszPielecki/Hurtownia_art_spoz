@@ -5,7 +5,8 @@
 <div class='container'>
     <!-- navbar -->
     <?php require('Components/Navbar.php'); ?>
-    
+    <?php require('Components/Order.html'); ?>
+
     <!-- footer -->
     <?php require('Components/Footer.php'); ?>
 
