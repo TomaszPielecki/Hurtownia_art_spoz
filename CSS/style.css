@@ -59,12 +59,12 @@ aside {
   float: right;
   margin: 0 0 25px;
 }
-
-/* Style dla stopki */
-footer {
-  background-color: #121212;
-  color: #FFF;
-  padding: 15px;
+Footer {
+  background-color: #010a13;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
   text-align: center;
 }
 
@@ -145,7 +145,7 @@ img {
 /* Stylizacja tekstu w slajdach */
 .text {
   color: #f2f2f2;
-  font-size: 15px;
+  font-size: 45px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
