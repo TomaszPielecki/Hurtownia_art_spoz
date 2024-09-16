@@ -65,7 +65,12 @@ Footer {
   position: relative;
   bottom: 0;
   width: 100%;
-  text-align: center;
+  text-align: center; /* Centrowanie tekstu */
+  color: #fff; /* Kolor tekstu na biały, aby kontrastował z ciemnym tłem */
+}
+
+Footer p {
+  margin: 0; /* Usunięcie marginesów, aby tekst był wycentrowany idealnie */
 }
 
 /* Media queries */
